@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Henry/Documents/workspace/ipd/codeword/src/binheap_template/binheap_template.cpp
+binheap_template.hpp
+/Users/Henry/Documents/workspace/ipd/codeword/src/binheap_template/binheap_template.hpp
+
+/Users/Henry/Documents/workspace/ipd/codeword/src/binheap_template/binheap_template.hpp
+cstddef
+-
+vector
+-
+
